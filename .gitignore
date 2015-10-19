@@ -8,6 +8,8 @@ __pycache__/
 # Distribution / packaging
 .Python
 env/
+bin/
+include/
 build/
 develop-eggs/
 dist/
@@ -30,6 +32,7 @@ var/
 *.spec
 
 # Installer logs
+pip-*.json
 pip-log.txt
 pip-delete-this-directory.txt
 
